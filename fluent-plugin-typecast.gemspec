@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
     "VERSION",
     "fluent-plugin-typecast.gemspec",
     "gemfiles/Gemfile.ci",
-    "gemfiles/Gemfile.v0.10",
     "lib/fluent/plugin/out_typecast.rb",
     "test/helper.rb",
     "test/plugin/test_out_typecast.rb"
